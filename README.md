@@ -20,6 +20,7 @@ Import the necessary React dependencies.
 6) Run your React.js development server to see the BMI calculator in action.
 
 ## PROGRAM:
+```
 java
 
 import React, { useState } from 'react';
@@ -64,7 +65,7 @@ function BMICalculator() {
 
 export default BMICalculator;
 
-
+```
 ## OUTPUT:
 
 <img width="364" alt="image" src="https://github.com/Monisha-11/EXP-08---MODERN-WEB/assets/93427240/164e0391-b54e-4698-bf8b-5284be612214">
